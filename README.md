@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GEOSLITI
-- 👀 I’m interested in SIG DEVELOPMENT
+- 👀 I’m interested in Modern Gis, AI-ML-DL integration for GIS Solutions
 - 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on AUTOMATE DIGITALISATION
+- 💞️ I’m looking to collaborate on Automative DL-based Scripts for Geosciences' Solutions
 - 📫 How to reach me sliti.tayaa@gmail.com
 
 <!---
